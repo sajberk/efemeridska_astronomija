@@ -1,1 +1,1 @@
-# efemeridska_astronomija
+# Zadaci i projekat iz predmeta Efemeridska astronomija u školskoj 2022/2023
